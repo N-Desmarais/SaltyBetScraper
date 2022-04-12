@@ -1,0 +1,9 @@
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\bin\Debug\SaltyBetScraper.exe.config
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\bin\Debug\SaltyBetScraper.exe
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\bin\Debug\SaltyBetScraper.pdb
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\bin\Debug\WebDriver.dll
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\obj\Debug\SaltyBetScraper.csprojAssemblyReference.cache
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\obj\Debug\SaltyBetScraper.csproj.CoreCompileInputs.cache
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\obj\Debug\SaltyBetScraper.csproj.CopyComplete
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\obj\Debug\SaltyBetScraper.exe
+C:\Users\njdes\source\repos\SaltyBetGraphMining\SaltyBetScraper\obj\Debug\SaltyBetScraper.pdb
